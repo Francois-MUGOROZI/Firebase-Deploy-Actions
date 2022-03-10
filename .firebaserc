@@ -1,5 +1,17 @@
 {
   "projects": {
     "default": "my-testing-a2bbf"
+  },
+  "targets": {
+    "my-testing-a2bbf": {
+      "hosting": {
+        "develop": [
+          "develop2022"
+        ],
+        "prod": [
+          "my-testing-a2bbf"
+        ]
+      }
+    }
   }
 }
