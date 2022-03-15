@@ -15,4 +15,3 @@ jobs:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_MY_TESTING_A2BBF }}"
           projectId: my-testing-a2bbf
-          taget: develop2022
